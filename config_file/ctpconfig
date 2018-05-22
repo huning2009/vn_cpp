@@ -1,0 +1,8 @@
+[ctp]
+BrokerID=9999
+InvesterID=117146
+InvesterPassword=flashmem518
+TradeFrontAddr=tcp://180.168.146.187:10001
+MdFrontAddr=tcp://180.168.146.187:10010
+mdlogfile=md_logs_
+tdlogfile=td_logs_

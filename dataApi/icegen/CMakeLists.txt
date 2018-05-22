@@ -1,0 +1,2 @@
+execute_process(COMMAND slice2cpp ../ice/L1Tick.ice ../ice/OrderData.ice ../ice/PositionData.ice ../ice/TradeData.ice WORKING_DIRECTORY ${CMAKE_CURRENT_SOURCE_DIR})
+#execute_process(COMMAND slice2cpp ../ice/*.ice WORKING_DIRECTORY ${CMAKE_CURRENT_SOURCE_DIR})

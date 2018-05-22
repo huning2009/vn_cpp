@@ -1,0 +1,1 @@
+add_library(configparser SHARED ConfigParser.cpp)
